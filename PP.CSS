@@ -1,0 +1,9738 @@
+/* Frame 2 */
+
+position: relative;
+width: 1920px;
+height: 1113px;
+
+background: #FFFFFF;
+
+
+/* 6 1 */
+
+position: absolute;
+width: 143px;
+height: 162px;
+left: 1729px;
+top: 60px;
+
+background: url(6.jpg);
+
+
+/* GOVERNMENT OF TELANGANA ABHAYAHASTHAM */
+h1{
+position: center;
+width: 1359px;
+height: 172px;
+left: 247px;
+top: 92px;
+
+font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 62px;
+text-align: center;
+
+color: #d91c1c;
+}
+
+/* PRAJA PALANA PRAJA PALANA APPLICATION (FOR MAHALAKSHMI / RYTHU BHAROSA / GRUHA LAKSHMI / INDIRAMMA INDLU / CHEYUTHA SCHEMES) */
+
+position: absolute;
+width: 1512px;
+height: 203px;
+left: 166px;
+top: 304px;
+
+font-family: 'Libre Baskerville';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 50px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 8px;
+
+position: absolute;
+width: 325px;
+height: 55px;
+left: 444px;
+top: 518px;
+
+/* Produto/purple-mid */
+background: #633BBC;
+border-radius: 6px;
+
+
+/* icon-esq */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Continuar */
+
+width: 208px;
+height: 38px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* identical to box height, or 38px */
+text-transform: uppercase;
+
+/* Base/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon-dir */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 8px;
+
+position: absolute;
+width: 325px;
+height: 55px;
+left: 822px;
+top: 518px;
+
+/* Produto/purple-mid */
+background: #633BBC;
+border-radius: 6px;
+
+
+/* icon-esq */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Continuar */
+
+width: 206px;
+height: 38px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* identical to box height, or 38px */
+text-transform: uppercase;
+
+/* Base/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon-dir */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 8px;
+
+position: absolute;
+width: 325px;
+height: 55px;
+left: 1216px;
+top: 518px;
+
+/* Produto/purple-mid */
+background: #633BBC;
+border-radius: 6px;
+
+
+/* icon-esq */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Continuar */
+
+width: 232px;
+height: 38px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* identical to box height, or 38px */
+text-transform: uppercase;
+
+/* Base/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon-dir */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 8px;
+
+position: absolute;
+width: 325px;
+height: 55px;
+left: 1579px;
+top: 518px;
+
+/* Produto/purple-mid */
+background: #633BBC;
+border-radius: 6px;
+
+
+/* icon-esq */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Continuar */
+
+width: 256px;
+height: 38px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* identical to box height, or 38px */
+text-transform: uppercase;
+
+/* Base/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon-dir */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 57px;
+left: 32px;
+top: 726px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 92px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+text-align: center;
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* arrow - hide element */
+
+position: absolute;
+width: 10px;
+height: 5.71px;
+right: 0px;
+top: 0px;
+
+/* primary */
+background: #13294B;
+opacity: 0.5;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 57px;
+left: 32px;
+top: 823px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 92px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 22px;
+/* identical to box height, or 110% */
+text-align: center;
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* arrow - hide element */
+
+position: absolute;
+width: 10px;
+height: 5.71px;
+right: 0px;
+top: 0px;
+
+/* primary */
+background: #13294B;
+opacity: 0.5;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* MANA PRAJA PRABHUTHVAM: PATH TO PROGRESS AND WELFARE FOR ALL */
+
+position: absolute;
+width: 888px;
+height: 54px;
+left: 491px;
+top: 1059px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* or 38px */
+text-transform: uppercase;
+
+color: #000000;
+
+
+
+/* Frame 1 */
+
+position: absolute;
+width: 1920px;
+height: 171px;
+left: -71px;
+top: 293px;
+
+
+
+/* image 2 */
+
+position: absolute;
+width: 237px;
+height: 171px;
+left: 106px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Sri-Anumula-Revanth-Reddy-removebg-preview 1 */
+
+position: absolute;
+width: 183px;
+height: 184px;
+left: 1760px;
+top: 0px;
+
+background: url(Sri-Anumula-Revanth-Reddy-removebg-preview.png);
+
+
+/* image 3 */
+
+position: absolute;
+width: 348.95px;
+height: 223px;
+left: -5px;
+top: 19px;
+
+background: url(image.png);
+
+
+/* FAMILY MEMBERS DETAILS : */
+
+position: absolute;
+width: 294px;
+height: 23px;
+left: 953px;
+top: 627px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+/* or 30px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+
+/* Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 32px;
+gap: 8px;
+
+position: absolute;
+width: 359px;
+height: 55px;
+left: 32px;
+top: 518px;
+
+/* Produto/purple-mid */
+background: #633BBC;
+border-radius: 6px;
+
+
+/* icon-esq */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Continuar */
+
+width: 186px;
+height: 38px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 150%;
+/* identical to box height, or 38px */
+text-transform: uppercase;
+
+/* Base/white */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* icon-dir */
+
+display: none;
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Table */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: absolute;
+width: 985px;
+height: 342px;
+left: 935px;
+top: 682px;
+
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 966px;
+height: 54px;
+
+/* Table Background */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 105px;
+height: 54px;
+
+background: rgba(255, 255, 255, 1e-05);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 105px;
+height: 44px;
+
+/* Table Border */
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #B9B9B9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+display: none;
+width: 105px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 7px 8px;
+gap: 10px;
+
+width: 105px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Name */
+
+width: 89px;
+height: 30px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 135px;
+height: 54px;
+
+background: rgba(255, 255, 255, 1e-05);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 135px;
+height: 44px;
+
+/* Table Border */
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #B9B9B9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+display: none;
+width: 105px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 7px 8px;
+gap: 10px;
+
+width: 135px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 119px;
+height: 30px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 135px;
+height: 54px;
+
+background: rgba(255, 255, 255, 1e-05);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 135px;
+height: 54px;
+
+/* Table Border */
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #B9B9B9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+display: none;
+width: 105px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 7px 8px;
+gap: 10px;
+
+width: 135px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 119px;
+height: 40px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 150%;
+/* or 18px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 135px;
+height: 54px;
+
+background: rgba(255, 255, 255, 1e-05);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 135px;
+height: 44px;
+
+/* Table Border */
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #B9B9B9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+display: none;
+width: 105px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 7px 8px;
+gap: 10px;
+
+width: 135px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 119px;
+height: 30px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 161px;
+height: 54px;
+
+background: rgba(255, 255, 255, 1e-05);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 161px;
+height: 44px;
+
+/* Table Border */
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #B9B9B9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+display: none;
+width: 105px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 7px 8px;
+gap: 10px;
+
+width: 161px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 145px;
+height: 30px;
+
+font-family: 'Fira Code';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 187px;
+height: 54px;
+
+background: rgba(255, 255, 255, 1e-05);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Table/Cell */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 187px;
+height: 44px;
+
+/* Table Border */
+border-width: 1px 0px 0px 1px;
+border-style: solid;
+border-color: #B9B9B9;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 2 */
+
+display: none;
+width: 105px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 7px 8px;
+gap: 10px;
+
+width: 187px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+width: 171px;
+height: 30px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 150%;
+/* identical to box height, or 30px */
+letter-spacing: -0.06em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* [ignore] */
+
+width: 1px;
+height: 54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 54px;
+left: 0px;
+top: 0px;
+bottom: 54px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 966.24px;
+height: 44px;
+
+/* Table Background */
+background: #FFFFFF;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 119.95px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 91.95px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.95px;
+top: 18.15px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.28px;
+top: calc(50% - 14px/2 + 0px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.95px;
+top: calc(50% - 14px/2 + 0px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.95px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.9px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.9px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.89px;
+top: 18.15px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.23px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.89px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.89px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 142px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 114px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.15px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.19px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.19px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.19px;
+top: 18.15px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.52px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.19px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.19px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 174.24px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 146.24px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.23px;
+top: 18.15px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.57px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.23px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.23px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 206.67px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 178.67px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.66px;
+top: 18.15px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.66px;
+top: calc(50% - 14px/2 + 0.01px);
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.66px;
+top: 9.01px;
+
+background: #E6E6E6;
+border-radius: 2px;
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1 */
+
+width: 1px;
+height: 44px;
+
+transform: rotate(0deg);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 44px;
+left: 0px;
+top: 0px;
+bottom: 44px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 966px;
+height: 44px;
+
+/* Table Background */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 119.95px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 91.95px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.95px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.28px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.95px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.95px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.9px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.9px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.9px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.23px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.9px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.9px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 142px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 114px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.19px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.19px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.19px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.52px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.19px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.19px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 174.24px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 146.24px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.24px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.57px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.24px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.24px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 206.67px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 178.67px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.67px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.67px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.67px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1 */
+
+width: 1px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 44px;
+left: 0px;
+top: 0px;
+bottom: 44px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 966px;
+height: 44px;
+
+/* Table Background */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 119.95px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 91.95px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.95px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.28px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.95px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.95px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.9px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.9px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.9px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.23px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.9px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.9px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 142px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 114px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.19px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.19px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.19px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.52px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.19px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.19px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 174.24px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 146.24px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.24px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.57px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.24px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.24px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 206.67px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 178.67px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.67px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.67px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.67px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1 */
+
+width: 1px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 44px;
+left: 0px;
+top: 0px;
+bottom: 44px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 967px;
+height: 44px;
+
+/* Table Background */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 119.95px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 91.95px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.95px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.28px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.95px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.95px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.9px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.9px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.9px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.23px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.9px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.9px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 142px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 114px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.19px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.19px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.19px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.52px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.19px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.19px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 174.24px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 146.24px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.24px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.57px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.24px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.24px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 206.67px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 178.67px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.67px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.67px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.67px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1 */
+
+width: 1px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 44px;
+left: 0px;
+top: 0px;
+bottom: 44px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 966px;
+height: 44px;
+
+/* Table Background */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 119.95px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 91.95px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.95px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.28px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.95px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.95px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.9px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.9px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.9px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.23px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.9px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.9px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 142px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 114px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.19px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.19px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.19px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.52px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.19px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.19px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 174.24px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 146.24px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.24px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.57px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.24px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.24px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 206.67px;
+height: 44px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 178.67px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.67px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.67px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.67px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1 */
+
+width: 1px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 44px;
+left: 0px;
+top: 0px;
+bottom: 44px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Table/Row/Default */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 966px;
+height: 45px;
+
+/* Table Background */
+background: #FFFFFF;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 119.95px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 91.95px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.95px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.28px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.95px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.95px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.9px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.9px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.9px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.23px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.9px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.9px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 142px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 114px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 161.19px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 133.19px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.19px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.52px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.19px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.19px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 174.24px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 146.24px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14.24px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.57px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18.24px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14.24px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 206.67px;
+height: 45px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Enter Here */
+
+width: 178.67px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 13.67px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 17.67px;
+top: calc(50% - 14px/2 + 0.5px);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 13.67px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 1 */
+
+width: 1px;
+height: 45px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 7 */
+
+position: absolute;
+width: 45px;
+left: 0px;
+top: 0px;
+bottom: 45px;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(90deg);
+
+
+/* Frame 1 */
+
+width: 985px;
+height: 11px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Line 6 */
+
+position: absolute;
+left: 100%;
+right: -100%;
+top: 0%;
+bottom: 100%;
+
+/* Table Border */
+border: 1px solid #B9B9B9;
+transform: rotate(180deg);
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 407px;
+height: 70px;
+left: 26px;
+top: 934px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 407px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 407px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 407px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 264px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 407px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 379px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 70px;
+left: 32px;
+top: 627px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 422px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 70px;
+left: 521px;
+top: 627px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 249px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 70px;
+left: 521px;
+top: 726px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 151px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 70px;
+left: 521px;
+top: 825px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 230px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* form row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+position: absolute;
+width: 401px;
+height: 70px;
+left: 521px;
+top: 927px;
+
+
+
+/* form elemnet varints */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* form elemnet source */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 401px;
+height: 70px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* label */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 5px;
+
+width: 401px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Name */
+
+width: 115px;
+height: 22px;
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #060E1B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* * */
+
+width: 8px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+color: #E51B00;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (info text.) */
+
+display: none;
+width: 58px;
+height: 22px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 138% */
+
+color: #060E1B;
+
+opacity: 0.4;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* input/select box */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 14px;
+gap: 10px;
+isolation: isolate;
+
+width: 401px;
+height: 42px;
+
+background: #FFFFFF;
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Element Value */
+
+display: none;
+width: 968px;
+height: 14px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 14px;
+/* identical to box height, or 88% */
+
+/* primary */
+color: #13294B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+z-index: 0;
+
+
+/* Element Placeholder */
+
+width: 373px;
+height: 16px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-align: center;
+
+color: #060E1B;
+
+opacity: 0.2;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+z-index: 1;
+
+
+/* arrow */
+
+position: absolute;
+display: none;
+width: 10px;
+height: 5.71px;
+right: 14px;
+top: 18.14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 18.67px;
+height: 14px;
+right: 13.33px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Eye */
+
+position: absolute;
+display: none;
+width: 14px;
+height: 14px;
+right: 18px;
+top: calc(50% - 14px/2);
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* browse button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 15px;
+gap: 10px;
+
+position: absolute;
+display: none;
+width: 71px;
+height: 24px;
+right: 14px;
+top: 9px;
+
+background: #E6E6E6;
+border-radius: 2px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* textarea */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 14px;
+gap: 10px;
+
+display: none;
+width: 996px;
+height: 150px;
+
+/* white */
+background: #FFFFFF;
+/* blue */
+border: 1px solid #27509E;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* error message */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+display: none;
+width: 996px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
